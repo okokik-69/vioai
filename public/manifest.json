@@ -1,0 +1,21 @@
+{
+  "name": "VioScribe AI - Meeting Assistant",
+  "short_name": "VioScribe",
+  "description": "AI-powered speech to text and meeting summarization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/vioscribe/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/vioscribe/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

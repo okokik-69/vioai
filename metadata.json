@@ -1,0 +1,7 @@
+{
+  "name": "VioScribe - AI Speech to Text",
+  "description": "Ứng dụng chuyển đổi giọng nói thành văn bản thời gian thực và từ tệp tin, tích hợp AI tóm tắt cuộc họp.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
